@@ -11,8 +11,9 @@
     "url": "git+https://github.com/286499410/ys-request.git"
   },
   "keywords": [
-    "model",
-    "orm"
+    "http",
+    "request",
+    "api"
   ],
   "author": "Joey",
   "license": "ISC",
