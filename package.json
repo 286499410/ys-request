@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/286499410/ys-request/issues"
   },
-  "homepage": "https://github.com/286499410/ys-request#readme"
+  "homepage": "https://github.com/286499410/ys-request#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.4",
+    "query-string": "^5.1.0",
+    "whatwg-fetch": "^2.0.3"
+  }
 }
